@@ -135,12 +135,16 @@ Analyzes order delivery performance and logistics-related trends.
 
 The dashboard enables analysis of:
 
-- Revenue and order trends over time
-- Top-performing product categories
-- Customer satisfaction and review patterns
-- Payment method preferences
-- Delivery performance
-- Geographic and customer-level patterns
+## 💡 Key Insights
+
+- Analyzed overall revenue, order volume, unique customers, and Average Order Value to evaluate the overall business performance.
+- Identified differences in revenue and item sales across product categories, helping highlight the categories contributing most to e-commerce performance.
+- Analyzed payment-method usage to understand customer payment preferences and their contribution to transactions.
+- Found a strong relationship between delivery performance and customer satisfaction, with late deliveries associated with substantially lower review scores.
+- Analyzed review-score distribution and identified product categories with comparatively lower customer ratings, highlighting areas for potential improvement.
+- Compared average product prices with average freight costs across categories to understand the impact of logistics costs on product economics.
+- Analyzed monthly revenue and delivery trends to identify changes in business performance over time.
+- Evaluated top products by revenue to identify products contributing significantly to overall sales.
 
 ---
 
