@@ -137,14 +137,11 @@ The dashboard enables analysis of:
 
 ## 💡 Key Insights
 
-- Analyzed overall revenue, order volume, unique customers, and Average Order Value to evaluate the overall business performance.
-- Identified differences in revenue and item sales across product categories, helping highlight the categories contributing most to e-commerce performance.
-- Analyzed payment-method usage to understand customer payment preferences and their contribution to transactions.
-- Found a strong relationship between delivery performance and customer satisfaction, with late deliveries associated with substantially lower review scores.
-- Analyzed review-score distribution and identified product categories with comparatively lower customer ratings, highlighting areas for potential improvement.
-- Compared average product prices with average freight costs across categories to understand the impact of logistics costs on product economics.
-- Analyzed monthly revenue and delivery trends to identify changes in business performance over time.
-- Evaluated top products by revenue to identify products contributing significantly to overall sales.
+- Generated **₹13.59M in total revenue** across **99K distinct orders** and approximately **96K unique customers**, with an **Average Order Value of ₹137.75**.
+- Monthly revenue demonstrated a strong upward trend, reaching approximately **₹1M per month** during several peak months in late 2017 and 2018.
+- Achieved an **average review score of 4.09/5**, with **77.07% positive reviews**, indicating generally strong customer satisfaction.
+- The overall **late-delivery rate was 6.57%**, while the average delivery delay was **-11.88 days**, indicating that orders were generally delivered earlier than their estimated delivery dates.
+- Late deliveries were associated with substantially lower customer review scores compared with on-time deliveries, highlighting the impact of delivery performance on customer satisfaction.
 
 ---
 
